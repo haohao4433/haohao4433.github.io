@@ -6,14 +6,24 @@
     <description>Recent content in Blogs on 隨緣記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0800</lastBuildDate><atom:link href="https://haohao4433.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://haohao4433.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://haohao4433.github.io/blog/post-13/</link>
+      <title>不用虛擬主機,不用付費主題,免費架設出一個網站！</title>
+      <link>https://haohao4433.github.io/blog/web/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://haohao4433.github.io/blog/web/</guid>
+      <description>以下為課程推薦,如有需求請點擊下面的文字！
+課程推薦：Github免費架站術！輕鬆打造個人品牌</description>
+    </item>
+    
+    <item>
+      <title>股票紀律</title>
+      <link>https://haohao4433.github.io/blog/1_stock_discipline/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0800</pubDate>
       
-      <guid>https://haohao4433.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://haohao4433.github.io/blog/1_stock_discipline/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 </description>
     </item>
     
   </channel>

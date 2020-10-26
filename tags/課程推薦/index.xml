@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>隨緣記</title>
-    <link>https://haohao4433.github.io/</link>
-    <description>Recent content on 隨緣記</description>
+    <title>課程推薦 on 隨緣記</title>
+    <link>https://haohao4433.github.io/tags/%E8%AA%B2%E7%A8%8B%E6%8E%A8%E8%96%A6/</link>
+    <description>Recent content in 課程推薦 on 隨緣記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://haohao4433.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://haohao4433.github.io/tags/%E8%AA%B2%E7%A8%8B%E6%8E%A8%E8%96%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>不用虛擬主機,不用付費主題,免費架設出一個網站！</title>
       <link>https://haohao4433.github.io/blog/web/</link>
@@ -15,15 +15,6 @@
       <guid>https://haohao4433.github.io/blog/web/</guid>
       <description>以下為課程推薦,如有需求請點擊下面的文字！
 課程推薦：Github免費架站術！輕鬆打造個人品牌</description>
-    </item>
-    
-    <item>
-      <title>股票紀律</title>
-      <link>https://haohao4433.github.io/blog/1_stock_discipline/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0800</pubDate>
-      
-      <guid>https://haohao4433.github.io/blog/1_stock_discipline/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 </description>
     </item>
     
   </channel>
