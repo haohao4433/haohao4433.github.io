@@ -105,7 +105,42 @@
         <img src="https://haohao4433.github.io/images/post/post_1.jpg" class="img-fluid w-100 mb-4" alt="不用虛擬主機,不用付費主題,免費架設出一個網站！">
         
         <div class="content mb-5">
-          <p>以下為課程推薦,如有需求請點擊下面的文字！<br>
+          <p>目錄
+<a href="#%E5%A6%82%E4%BD%95%E5%85%8D%E8%B2%BB%E6%9E%B6%E8%A8%AD%E7%B6%B2%E7%AB%99">如何免費架設網站？</a>auto    - <a href="#%E4%B8%8B%E8%BC%89hugo%E6%8C%91%E9%81%B8%E4%B8%BB%E9%A1%8C">下載Hugo,挑選主題</a>auto    - <a href="#%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%E6%96%87%E7%AB%A0">如何修改文章</a>auto    - <a href="#%E5%A6%82%E4%BD%95%E8%AE%93%E7%B6%B2%E7%AB%99%E4%B8%8A%E7%B7%9A">如何讓網站上線？</a>auto    - <a href="#%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%E4%B8%8A%E7%B7%9A%E7%B6%B2%E7%AB%99%E7%9A%84%E5%85%A7%E5%AE%B9">如何修改上線網站的內容</a>auto- <a href="#%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B%E6%8E%A8%E8%96%A6">線上課程推薦</a>autoauto</p>
+<blockquote>
+<p>在這個網路非常發達的世代,個人網站是一個非常好展現想法的媒介.</p>
+</blockquote>
+<p>       我相信很多人應該都有過想要架設網站的想法吧？但是當真正去做的時候才發現自己不會寫 HTML 也不會寫 CSS ,甚至完全沒有接觸過任何程式語言.不過這也沒有關係,還有很多平台可以選擇,比如說可以使用 world press 或是 Wix ,但是接觸後才發現,也許並不是很適合自己.想要一個好一點的主題,需要花錢;想要讓網站一直在線上,需要花錢購買虛擬主機.</p>
+<p>       如果你只是想要一個簡簡單單的網站,可以放一些自己想分享的事情,可以記錄生活周遭的各種奇聞趣事,那我相信你現在所看的這篇文章將會對你有很大的幫助.因為我今天要介紹的就是一種方便的架網站方法,他不需要學會去寫很複雜的程式,也不需要花錢去購買付費主題或是虛擬主機.</p>
+<h1 id="如何免費架設網站">如何免費架設網站？</h1>
+<p>       在架設網站之前,你會有一些需要用到的東西,推薦預先全部準備好,這樣會讓你架設網站的流程變的比較順暢,以下為所需要的東西.</p>
+<ul>
+<li><a href="https://github.com">Github</a> 賬號</li>
+<li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
+</ul>
+<p>我們這次將會使用 <strong>Github Page + Hugo</strong> 的方式來架設網站,順帶一提,<a href="https://haohao4433.github.io">本網站（隨緣記）</a>也是使用這個方式架立的.如果準備好了以上的東西,那就可以準備開始咯！</p>
+<h2 id="下載hugo挑選主題">下載Hugo,挑選主題</h2>
+<p>       打開搜尋引擎,去搜索 <a href="https://gohugo.io">Hugo</a> ,理論上來說,第一個就會是我們需要的結果.進入網頁後,將網頁拉到最下方找到: See the Getting Started Guide for other methods 並且點擊進去.點擊進去之後再去尋找 Hugo Releases 並且點擊進去,然後找到 hugo_extended ,選擇自己相對應的系統,並且下載.下載完後解壓縮,可以得到一個Hugo.exe的程式,那個程式要留著,之後會用到.</p>
+<p>       下載好了Hugo以後,接下來我們就可以來選擇我們喜歡的主題了,回到Hugo的官方網站並且點擊 <a href="https://themes.gohugo.io">Themes</a> ,在這裡你可以看到非常多的主題,而<a href="https://haohao4433.github.io">本網站（隨緣記）</a>使用的主題是 <a href="https://themes.gohugo.io/liva-hugo/">Liva Hugo</a></p>
+<p>       我以 Liva Hugo 為例,下載下來以後,解壓縮,把其中的 exampleSite 資料夾拖出來放置桌面（或任何你喜歡的地方）,然後在其資料夾裡建立一個新的資料夾,檔名叫做 themes .創立好後,回到剛剛下載好的資料夾（ liva hugo-master ）將其改名為 liva hugo 且剪下他並且放入 themes 裡面.然後在把最一開始下載的 Hugo.exe 檔案放入 examplesite 資料夾內,到這裡檔案就算是建立完了！</p>
+<p>       到了這邊,就已經可以叫出自己的網站來看看了.我們在 exampleSite 的資料夾內,叫出命令提示字元,在其輸入hugo server,然後就可以得到一串網站 (localhost:1313) ,將這串網址複製到瀏覽器上就可以看到我們的網頁啦！不過值得注意的是,在這邊得到的網址只有你自己可以使用,其他人是無法用的,所以我們後面還有許多步驟要做.</p>
+<h2 id="如何修改文章">如何修改文章</h2>
+<p>       想要修改文章,就必須使用相對應的工具了,這邊我推薦使用 Visual Studio Code ,簡稱 VS Code. 在剛打開 VS Code 的時候,推薦大家可以先安裝一些插件,讓我們可以更順利的完成任務.</p>
+<p>       都弄好了以後,就可以在 VS Code 上面打開我們的 exampleSite 的資料夾, 在裡面找到 Content 資料夾,在Content資料夾內可以看到 blog 的資料夾,我們的文章都會儲存在這裡.</p>
+<p>       隨便點開一篇 post ,可以看到裡面有許多的預設內容,這些內容大部分都是以<a href="https://markdown.tw">Markdown</a>的語法來呈現.所以在編輯自己想要的文章時,也可以參考一下相關的語法,讓文章變得排版好看一點.</p>
+<h2 id="如何讓網站上線">如何讓網站上線？</h2>
+<p>       都完成以後,就要準備將網頁上傳到 <a href="https://github.com">Github</a> 了,這樣才可以讓別人可以透過網址來看你的網頁.所以接下來,我就要來講解如何將自己的網頁上傳上去,</p>
+<ol>
+<li>在<a href="https://github.com">Github</a>上面建立一個專案,專案名稱需要為：自己的賬號名稱.github.io</li>
+<li>在 exampleSite 的資料夾內叫出命令提示字元,並且在上面輸入 Hugo .</li>
+<li>在 exampleSite 資料夾內找到 public 資料夾</li>
+<li>將 public 資料夾內所以文件上傳到你所建立的專案那邊</li>
+</ol>
+<p>到這邊,網站就已經成功上線了,網站的網址就會是你的 Github賬號名稱.github.io ,可以在瀏覽器上試試看.如果頁面顯示為404,那則需要耐心等待一段時間,網站就會順利上線了,如果一直都會404,那就是有哪個步驟做錯了.</p>
+<h2 id="如何修改上線網站的內容">如何修改上線網站的內容</h2>
+<p>       這邊就以修改文章（blog）為例.首先去到 exampleSite\content\blog 裡面去更改或是新增你的文章.這邊要非常注意的是：<strong>不是在 public 資料夾內作業！</strong> 修改完後,再回到exampleSite資料夾,叫出命令提示字元,輸入 hugo .複製 public 資料夾內的檔案,重新上傳 <a href="https://github.com">Github</a> 你所建立的專案那邊.這樣就可以了,線上的網站也會進行更改.修改其他的東西也是相同的道理.</p>
+<h1 id="線上課程推薦">線上課程推薦</h1>
+<p>       以上文章內容大部分都是截取自古君葳在 hahow 平台中所開始的課程,很多事情是無法用文章的形式來說明清楚,所以我自己也非常明白我有許多是沒講到的地方.如果對架設網站有興趣、有需求的朋友們,我真的非常推薦這堂課程,買了絕對不會後悔.以下為課程鏈接,如有需求請點擊下面的文字！<br>
 <a href="https://hahow.in/courses/5de8fec16117240026540b9c/main?mts_s=ap&amp;mts_m=ha&amp;oasId=5e87086c9e9db00024094d49">課程推薦：Github免費架站術！輕鬆打造個人品牌</a></p>
 
         </div>
