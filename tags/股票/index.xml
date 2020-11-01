@@ -8,12 +8,16 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0800</lastBuildDate><atom:link href="https://haohao4433.github.io/tags/%E8%82%A1%E7%A5%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>股票紀律</title>
-      <link>https://haohao4433.github.io/blog/1_stock_discipline/</link>
+      <title>markdown語法</title>
+      <link>https://haohao4433.github.io/blog/0_how_to_use_markdown/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0800</pubDate>
       
-      <guid>https://haohao4433.github.io/blog/1_stock_discipline/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 </description>
+      <guid>https://haohao4433.github.io/blog/0_how_to_use_markdown/</guid>
+      <description>內文：直接打就好（換行需要打2個空格再換行)
+一級標題 （#+空白） 粗體
+斜體
+  有序序列
+  要有空白鍵喲 也可以直接打1.</description>
     </item>
     
   </channel>
